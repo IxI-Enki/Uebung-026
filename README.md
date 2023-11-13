@@ -25,6 +25,12 @@ Gehen Sie bei den folgenden Daten von beliebigen, aber fixen Werten aus:
 
 ## . . . . . . . . . .... [SPOILER] .... . . . . . . . . 
 
-## Visual Studio
+## Visual Studio:  
+![1](https://github.com/IxI-Enki/Uebung-026/assets/138018029/c3547cae-f755-4cd1-a62b-9e4eba169344)  
+![2](https://github.com/IxI-Enki/Uebung-026/assets/138018029/8b73e46b-05fa-4aee-b16d-139c85f39f48)  
+![3](https://github.com/IxI-Enki/Uebung-026/assets/138018029/a1294ec9-9f3c-461a-9aad-9c5ba78e3420)  
+![4](https://github.com/IxI-Enki/Uebung-026/assets/138018029/098138c3-f191-4ff2-80f3-d3c34975283e)  
+![5](https://github.com/IxI-Enki/Uebung-026/assets/138018029/d7086728-cef8-409c-a171-47ce3a91d971)  
+
 
 ## Ausgabe
