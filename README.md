@@ -1,4 +1,4 @@
-# Uebung-026  -- CashMaschine  *UP NEXT* 
+# Uebung-026  -- CashMaschine
 
 ## Lernziel:
 - Variablen und Konstanten
